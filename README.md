@@ -1,2 +1,2 @@
-# Tin-Dog Startup Website
+# TinDog Startup Website
 Tinder for Dogs
